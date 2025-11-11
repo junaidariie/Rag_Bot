@@ -14,14 +14,6 @@ It uses **Retrieval-Augmented Generation (RAG)** to search your document and ans
 Try the app here:  
 👉 **https://ragbot-tkedmmzozbxni6zgor7erm.streamlit.app/**
 
----
-
-## 📁 Repository
-GitHub Source Code:  
-👉 **https://github.com/junaidariie/Rag_Bot**
-
----
-
 ## ✅ Features
 
 - 📄 Upload any PDF document  
